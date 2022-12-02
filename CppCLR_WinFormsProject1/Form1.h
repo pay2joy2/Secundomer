@@ -98,7 +98,7 @@ namespace CppCLRWinFormsProject {
 			this->Time->FlatStyle = System::Windows::Forms::FlatStyle::System;
 			this->Time->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 72, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->Time->Location = System::Drawing::Point(411, 90);
+			this->Time->Location = System::Drawing::Point(565, 102);
 			this->Time->Name = L"Time";
 			this->Time->Size = System::Drawing::Size(258, 108);
 			this->Time->TabIndex = 2;
