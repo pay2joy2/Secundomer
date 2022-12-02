@@ -79,7 +79,7 @@ namespace CppCLRWinFormsProject {
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(127, 157);
+			this->button1->Location = System::Drawing::Point(892, 55);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(338, 93);
 			this->button1->TabIndex = 0;
@@ -98,7 +98,7 @@ namespace CppCLRWinFormsProject {
 			this->Time->FlatStyle = System::Windows::Forms::FlatStyle::System;
 			this->Time->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 72, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->Time->Location = System::Drawing::Point(469, 20);
+			this->Time->Location = System::Drawing::Point(409, 460);
 			this->Time->Name = L"Time";
 			this->Time->Size = System::Drawing::Size(258, 108);
 			this->Time->TabIndex = 2;
@@ -107,7 +107,7 @@ namespace CppCLRWinFormsProject {
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(569, 375);
+			this->button2->Location = System::Drawing::Point(-139, 55);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(338, 93);
 			this->button2->TabIndex = 3;
