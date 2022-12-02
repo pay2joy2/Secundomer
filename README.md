@@ -3,4 +3,4 @@
 
 Версия Dev - Изменённый дизайн.
 
-TryMerge и TryRebase - Описаны в документации.
+MergeTest и TryRebase - Описаны в документации.
