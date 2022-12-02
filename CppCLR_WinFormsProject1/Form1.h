@@ -79,7 +79,7 @@ namespace CppCLRWinFormsProject {
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(608, 364);
+			this->button1->Location = System::Drawing::Point(325, 26);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(338, 93);
 			this->button1->TabIndex = 0;
@@ -98,7 +98,7 @@ namespace CppCLRWinFormsProject {
 			this->Time->FlatStyle = System::Windows::Forms::FlatStyle::System;
 			this->Time->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 72, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->Time->Location = System::Drawing::Point(411, 90);
+			this->Time->Location = System::Drawing::Point(28, 82);
 			this->Time->Name = L"Time";
 			this->Time->Size = System::Drawing::Size(258, 108);
 			this->Time->TabIndex = 2;
@@ -107,7 +107,7 @@ namespace CppCLRWinFormsProject {
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(121, 364);
+			this->button2->Location = System::Drawing::Point(325, 172);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(338, 93);
 			this->button2->TabIndex = 3;
@@ -130,7 +130,8 @@ namespace CppCLRWinFormsProject {
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(1105, 556);
+			this->BackColor = System::Drawing::SystemColors::WindowFrame;
+			this->ClientSize = System::Drawing::Size(695, 307);
 			this->Controls->Add(this->label1);
 			this->Controls->Add(this->button2);
 			this->Controls->Add(this->Time);
